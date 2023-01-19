@@ -1,4 +1,4 @@
-# CI-CD-Deployment-for-Springboot-Application-Phase5
+# CI-CD-Deployment-for-Springboot-Application
 DESCRIPTION
 
 Project Objective: 
